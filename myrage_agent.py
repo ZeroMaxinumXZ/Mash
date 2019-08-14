@@ -1,5 +1,21 @@
 import tensorflow as tf
 
+2
+
+​
+
+3
+
+sess = tf.Session()
+
+4
+
+import os
+
+5
+
+import tensorflow as tf
+
 sess = tf.Session()
 import os
 

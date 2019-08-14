@@ -6,7 +6,7 @@ Implement visual soft-attention.
 
 Implement actor-editable external memory.
 
-# REQUIREMENTS
+# Requirements
 Tensorfldw
 
 Keras-Contrib

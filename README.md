@@ -6,6 +6,8 @@ Implement visual soft-attention.
 
 Implement actor-editable external memory.
 
+Remove Keras Contrib dependency.
+
 # Requirements
 Tensorfldw
 

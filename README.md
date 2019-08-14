@@ -3,4 +3,5 @@ An experimental bayesian capsule CNN-RNN actor critic algorithm implemented in t
 
 # TODO:
 Implement visual soft-attention.
+
 Implement actor-editable memory.

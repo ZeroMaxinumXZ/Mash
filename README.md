@@ -1,2 +1,3 @@
 # Mash
-A bayesian capsule CNN-RNN actor critic algorithm implemented in tf-keras
+An experimental bayesian capsule CNN-RNN actor critic algorithm with intrinsic motivation implemented in tf-keras
+myrage_agent.py

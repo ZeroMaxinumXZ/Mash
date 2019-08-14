@@ -3,10 +3,6 @@ import tensorflow as tf
 sess = tf.Session()
 import os
 
-import tensorflow as tf
-
-sess = tf.Session()
-import os
 
 os.environ['CUDA_VISIBLE_DEVICES'] = '1'
 
@@ -27,7 +23,7 @@ import keras_contrib as KC
 def swish(x):
     return K.sigmoid(x) * x
     
-class MIRAGEAgent:
+class MASHAgent:
     def __init__(self, state_shape, action_shape):
         self.state_size = state_shape
         self.action_size = action_shape
